@@ -2,7 +2,7 @@
 title: Example Slides
 summary: An introduction to using Wowchemy's Slides feature.
 authors: []
-tags: ['Tutorials']
+tags: [ 'Our Research', 'About Us', 'Contact Us']
 categories: []
 date: '2019-02-05'
 slides:
